@@ -1,1 +1,1 @@
-[[https://gitlab.com/daanturo]][[My Gitlab account]]
+[[https://gitlab.com/daanturo][My GitLab account]]
